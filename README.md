@@ -1,6 +1,6 @@
 # RS-API
 
-AQ.Ab8RN6JB5rKhWx7JrZ6ye8tz81KohIN_OU-Los8IcT5gqhNSig
+AIzaSyAPnN-18O1odMOC2TWou4wI8QD_qIgbJsc
 
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
   -H 'Content-Type: application/json' \
